@@ -4,8 +4,8 @@
 - 💞️  
 - 📫 zacuke@yahoo.com
 
-<!---
+<!-- 
 Teal'c:
   Indeed
  
---->
+ -->
